@@ -2,7 +2,7 @@
 
 This is the php backend for this [Nyumbani! Android App on my public repo](https://github.com/machariamuguku/Nyumbani-A-Rental-Real-Estates-Android-Mobile-Application).
 
-N/b: This is a very old codebase! (over two years ago - I was still a NEWBIE! use at your own risk!). I only shared because other fellow newbies are asking :man-shrugging::skin-tone-6:
+N/b: This is a very old codebase! (over two years ago - I was still a NEWBIE! use at your own risk!). I only shared because other fellow newbies are asking :man-shrugging:
 
 ## Installation
 
