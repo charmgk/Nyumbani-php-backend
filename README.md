@@ -6,7 +6,7 @@ N/b: This is a very old codebase! (over two years ago **I was still a NEWBIE!** 
 
 ## Installation/Use
 
-Host at any public (preferably free) host. 
+Host on any public (preferably free) host. 
 
 I had hosted mine on [000webhost.com](https://www.000webhost.com/) but that was then and today we have [Heroku](https://www.heroku.com/) for that.
 
