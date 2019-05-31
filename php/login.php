@@ -1,7 +1,7 @@
 <?php  
  $db_name = "id2275237_hostels";  
  $mysql_user = "id2275237_mash";  
- $mysql_pass = "achieverno1";  
+ $mysql_pass = "your_password_here";  
  $server_name = "localhost";  
 
  $con = mysqli_connect($server_name,$mysql_user,$mysql_pass,$db_name);    
